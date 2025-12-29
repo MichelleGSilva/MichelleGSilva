@@ -14,8 +14,8 @@ Sou desenvolvedora em formação pelo **Bootcamp de Desenvolvimento Full-Stack d
 
 Tenho experiência acadêmica e prática com:
 
-- Desenvolvimento backend com TypeScript, Node.js e NestJS  
-- Testes de API usando Insomnia  
+- Desenvolvimento backend com JavaScript, TypeScript, Node.js e NestJS  
+- Testes de API usando Insomnia e Swagger
 - Construção de bancos de dados em MySQL  
 - Modelagem, lógica e resolução de problemas de programação  
 - Projetos práticos do bootcamp que simulam sistemas reais  

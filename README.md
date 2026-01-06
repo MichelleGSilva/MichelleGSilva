@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Olá! Eu sou a Michelle</h1>
-<p align="center">Desenvolvedora Full-Stack em formação | JavaScript | TypeScript | Node.js | NestJS | SQL</p>
+<p align="center">Desenvolvedora Full-Stack em formação | JavaScript | TypeScript | Node.js | NestJS | MySQL | HTML | CSS | React </p>
 
 ---
 

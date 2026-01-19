@@ -1,10 +1,20 @@
-<!-- BANNER PRINCIPAL DARK / TECH -->
+<!-- BANNER PRINCIPAL ANIMADO - ALTO CONTRASTE PARA DARK MODE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:111827&height=220&section=header&text=Michelle%20Gonçalves%20Silva&fontColor=E5E7EB&fontSize=38&animation=fadeIn&desc=Desenvolvedora%20Full-Stack&descAlignY=68"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving
+    &height=240
+    &text=Michelle%20Gonçalves%20Silva
+    &fontSize=38
+    &fontColor=F9FAFB
+    &animation=fadeIn
+    &desc=Desenvolvedora%20Full-Stack
+    &descAlignY=70
+    &color=0:1F2937,50:0EA5E9,100:1F2937"
+  />
 </p>
 
 <h1 align="center">
-  👋 Olá! Eu sou a <strong>Michelle</strong>
+  👋 Olá! Seja bem vindo (a) ao meu repositório!
 </h1>
 
 ---

@@ -13,7 +13,7 @@
 
 <p align="center">
   <!-- botões -->
-  <a href="https://www.linkedin.com/in/michellegoncalvessilva/" target="_blank">
+  <a href="https://www.linkedin.com/in/michellegs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/MichelleGSilva" target="_blank">
@@ -163,7 +163,7 @@ Atualmente, estou iniciando minha graduação em **Análise e Desenvolvimento de
 ---
 
 ## 📬 Contato
-- 💼 <a href="https://www.linkedin.com/in/michellegoncalvessilva/" target="_blank">LinkedIn</a>  
+- 💼 <a href="https://www.linkedin.com/in/michellegs/" target="_blank">LinkedIn</a>  
 - 🌐 <a href="https://github.com/MichelleGSilva" target="_blank">GitHub</a>  
 
 ---

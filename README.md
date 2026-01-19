@@ -35,9 +35,10 @@
 
 ## 📚 Sumário
 - [Sobre mim](#-sobre-mim)
-- [Tech Stack](#-tech-stack)
+- [Tecnologias](#-tecnologias)
 - [Projetos em destaque](#-projetos-em-destaque)
 - [Estatísticas](#-estatísticas)
+- [Curiosidades](#-curiosidades)
 - [Contato](#-contato)
 
 ---
@@ -161,14 +162,22 @@ Atualmente, estou iniciando minha graduação em **Análise e Desenvolvimento de
 </p>
 
 ---
-
-## 📬 Contato
-- 💼 <a href="https://www.linkedin.com/in/michellegs/" target="_blank">LinkedIn</a>  
-- 🌐 <a href="https://github.com/MichelleGSilva" target="_blank">GitHub</a>  
+## 💡 Curiosidades
+- 🍽 Sou nutricionista e adoro gastronomia.
+- ✈️ Já visitei **23 países**.
+- ⚡ Busco sempre entregar tudo com leveza, verdade e autenticidade.
+- 🧘 Estou construindo um lifestyle mais equilibrado com o projeto **@tentando100neura**. 
 
 ---
 
-✨ Se você é recrutador(a) ou dev, fique à vontade para se conectar — estou aberta a oportunidades e boas conversas em tech 🚀
+## 📬 Contato
+- 💼 <a href="https://www.linkedin.com/in/michellegs/" target="_blank">LinkedIn</a>
+- 📤 <a href="mailto:michelle_g_silva@hotmail.com" target="_blank">Email</a>
+- 🌐 <a href="https://github.com/MichelleGSilva" target="_blank">GitHub</a>  
+
+---
+💜 Obrigada por visitar meu perfil!</br>
+✨ Se você é recrutador(a) ou profissional da área de tecnologia, fique à vontade para se conectar — estou aberta a oportunidades e boas conversas em tech 🚀🤝
 
 
 

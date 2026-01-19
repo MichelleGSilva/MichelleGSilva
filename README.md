@@ -63,7 +63,7 @@ Atualmente, estou iniciando minha graduação em **Análise e Desenvolvimento de
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tecnologias
 <p>
   <!-- Front -->
   <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge" />

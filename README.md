@@ -3,22 +3,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:111827&height=220&section=header&text=Michelle%20Gonçalves%20Silva&fontColor=E5E7EB&fontSize=38&animation=fadeIn&desc=Desenvolvedora%20Full-Stack&descAlignY=68"/>
 </p>
 
-<h1 align="center">👋 Olá! Eu sou a Michelle</h1>
-
 <p align="center">
-  Desenvolvedora Full-Stack em formação <br/>
-  JavaScript • TypeScript • Node.js • NestJS • React
+  Desenvolvedora Full-Stack <br/>
+  JavaScript • TypeScript • Node.js • NestJS • MySQL • HTML • CSS • React
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou **Desenvolvedora Full-Stack em formação**, com foco em **JavaScript e TypeScript**, atuando principalmente no desenvolvimento de **APIs backend com Node.js e NestJS**, além de aplicações frontend com **React**.
+Sou **Desenvolvedora Full-Stack**, com foco em **JavaScript e TypeScript**, atuando principalmente no desenvolvimento de **APIs backend com Node.js e NestJS**, além de aplicações frontend com **React**.
 
 Concluí o **Bootcamp de Desenvolvimento Full-Stack da Generation Brasil**, onde desenvolvi projetos práticos que simulam **cenários reais de mercado**, com integração entre front-end e back-end, banco de dados relacional e boas práticas de arquitetura.
 
-🎯 **Objetivo atual:** oportunidades como **Dev Júnior ou Estagiária**, com foco em **Backend ou Full-Stack**.
+Atualmente, estou iniciando minha graduação em **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em 06/2028.
+
+🎯 **Objetivo atual:** oportunidades como **Dev Júnior ou Estágio**, com foco em **Backend, Frontend ou Full-Stack**.
 
 ---
 

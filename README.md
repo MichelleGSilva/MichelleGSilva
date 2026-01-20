@@ -7,10 +7,15 @@
 
 
 <p align="center">
-  💻 Desenvolvedora <b>Full-Stack</b> </br>
-  🎓 Bootcamp de Desenvolvimento Full-Stack <b>Generation Brasil</b> (concluído) · 🎓 Graduanda em <b>Análise e Desenvolvimento de Sistemas</b><br/>
-  🎓 Bacharel em <b>Nutrição</b> · 🎓 Mestre em <b>Resolução de Disputas</b><br/>
-  🚀 Foco em desenvolvimento de aplicações completas com JavaScript, TypeScript, Node.js, NestJS e React
+  💻 Desenvolvedora <b>Full-Stack</b> · 📖 Inglês Fluente<br/>
+  🚀 Desenvolvimento de aplicações completas com <b>JavaScript, TypeScript, Node.js, NestJS e React</b><br/>
+  <p align="center">
+  🎓 Graduanda em <b>Análise e Desenvolvimento de Sistemas</b><br/>
+  🎓 Bootcamp de Desenvolvimento Full-Stack <b>Generation Brasil</b> (concluído)<br/>
+  <p align="center">
+  📚 Background acadêmico: Mestre em <b>Resolução de Disputas</b> · Bacharel em <b>Nutrição</b>
+</p>
+</p>
 </p>
 
 <p align="center">

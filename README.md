@@ -163,7 +163,7 @@ Atualmente, estou iniciando minha graduação em **Análise e Desenvolvimento de
 ---
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Construindo+solu%C3%A7%C3%B5es+Full-Stack;JavaScript+%7C+TypeScript+%7C+NestJS;Aprendizado+cont%C3%ADnuo+em+tecnologia"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Construindo+solu%C3%A7%C3%B5es+Full-Stack;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+React;Aprendizado+cont%C3%ADnuo+em+tecnologia"
     alt="Typing animation"
   />
 </p>

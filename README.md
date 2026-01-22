@@ -11,7 +11,7 @@
   🚀 Desenvolvimento de aplicações completas com <b>JavaScript, TypeScript, Node.js, NestJS e React</b><br/>
   <p align="center">
   🎓 Graduanda em <b>Análise e Desenvolvimento de Sistemas</b><br/>
-  🎓 Bootcamp de Desenvolvimento Full-Stack <b>Generation Brasil</b> (concluído)<br/>
+  🎓 Bootcamp de Desenvolvimento Full-Stack <b>Generation Brasil</b> <br/>
   <p align="center">
   📚 Background acadêmico: Mestre em <b>Resolução de Disputas</b> · Bacharel em <b>Nutrição</b>
 </p>

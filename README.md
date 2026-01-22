@@ -151,7 +151,7 @@ Atualmente, estou iniciando minha graduação em **Análise e Desenvolvimento de
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=MichelleGSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" 
+  src="https://github-readme-stats.vercel.app/api?username=MichelleGSilva&show_icons=true&theme=radical&hide_border=true"
 />
 
 <img 
